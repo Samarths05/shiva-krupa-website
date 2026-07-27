@@ -1,0 +1,916 @@
+{
+  "clinicName": "Shiva Krupa Polyclinic",
+  "strapline": "Women’s Health, Fertility & General Medicine",
+  "phone": "+91 9187392697",
+  "phoneHref": "08023489363",
+  "whatsapp": "919187392697",
+  "email": "pavan1bk1@gmail.com",
+  "address": "1st Floor, 131/3, 80 Feet Ring Road, KHB Colony, Basaveshwar Nagar, Bengaluru 560079",
+  "hours": "Monday–Saturday · 10:00 AM–7:00 PM",
+  "appointmentDelivery": "whatsapp",
+  "googleBookingEnabled": false,
+  "googleBookingUrls": {
+    "aishwarya": "https://calendar.app.google/d8PvU9LdxmVAY9t98",
+    "nagarajaiah": ""
+  },
+  "consultationSlots": [
+    {
+      "doctor": "Dr Aishwarya V Mathikatti",
+      "label": "Morning",
+      "time": "10:00 AM–1:00 PM"
+    },
+    {
+      "doctor": "Dr Aishwarya V Mathikatti",
+      "label": "Evening",
+      "time": "5:00 PM–7:00 PM"
+    },
+    {
+      "doctor": "Dr L. P. Nagarajaiah",
+      "label": "Morning",
+      "time": "9:00 AM–12:00 PM"
+    },
+    {
+      "doctor": "Dr L. P. Nagarajaiah",
+      "label": "Evening",
+      "time": "5:00 PM–7:00 PM"
+    }
+  ],
+  "calculatorMoveVersion": 1,
+  "consultationSlotsVersion": 1,
+  "primary": "#b54f76",
+  "accent": "#c79660",
+  "background": "#fff8fb",
+  "ink": "#402532",
+  "muted": "#77636c",
+  "surface": "#ffffff",
+  "soft": "#fdf0f5",
+  "deep": "#702a47",
+  "themeMode": "light",
+  "headingFont": "Playfair Display",
+  "bodyFont": "Manrope",
+  "radius": "12",
+  "contentWidth": "wide",
+  "cardStyle": "soft",
+  "buttonStyle": "rounded",
+  "animationStyle": "expressive",
+  "headerStyle": "classic",
+  "heroLayout": "full",
+  "heroTitle": "Care that listens. Expertise that stays with you.",
+  "heroSubtitle": "Specialist women’s healthcare led by Dr Aishwarya V Mathikatti, supported by two generations of trusted medical experience.",
+  "heroImage": "/media/images/d6cbf6ad-d0c5-4ded-abbc-077bf2503e08.jpeg",
+  "homeHeroTitleSize": 66,
+  "homeHeroSubtitleSize": 18,
+  "homeHeroTextWidth": 54,
+  "homeHeroImageX": 68,
+  "homeHeroImageY": 35,
+  "homeHeroOverlay": 64,
+  "homeHeroSizeVersion": 1,
+  "homeIntroHeadingSize": 58,
+  "homeIntroBodySize": 14,
+  "homeServicesHeadingSize": 58,
+  "homeServiceCardTitleSize": 27,
+  "homeServiceCardBodySize": 12,
+  "homeAwardsHeadingSize": 58,
+  "homeAwardsBodySize": 13,
+  "homeInsightsHeadingSize": 58,
+  "homeBlogCardTitleSize": 28,
+  "homeBlogCardBodySize": 12,
+  "showBlogImagesHome": false,
+  "homeBlogImagePreferenceVersion": 1,
+  "announcement": "",
+  "showAnnouncementBar": false,
+  "aboutHeroHeight": 420,
+  "faqExpansionVersion": 1,
+  "serviceDetailsVersion": 3,
+  "conditionsVersion": 1,
+  "conditions": [
+    "PCOS/PCOD",
+    "Vaginal Tightening",
+    "Menopause Care",
+    "High-risk Pregnancy",
+    "Infertility Evaluation",
+    "Male Infertility"
+  ],
+  "specializationImages": {
+    "gynaecology": "/specializations/gynaecology.png",
+    "pregnancy-care": "/specializations/pregnancy-care.png",
+    "fertility-ivf": "/specializations/fertility-ivf.png",
+    "procedures": "/specializations/procedures.png",
+    "general-medicine": "/specializations/general-medicine.png"
+  },
+  "homeSectionOrder": [
+    "intro",
+    "services",
+    "conditions",
+    "awards",
+    "insights"
+  ],
+  "showIntro": true,
+  "showServices": true,
+  "showConditions": true,
+  "showAwards": true,
+  "showTestimonials": true,
+  "showInsights": true,
+  "showPhotos": true,
+  "showVideos": true,
+  "websitePrivate": false,
+  "servicesLayout": "grid",
+  "calculatorPlacement": "blogs",
+  "appointmentPlacement": "contact",
+  "showFloatingCall": true,
+  "showFloatingWhatsapp": true,
+  "navDoctors": true,
+  "navSpecialities": true,
+  "navResources": true,
+  "navContact": true,
+  "blogNavLabel": "Blogs",
+  "blogPageLabel": "HEALTH INSIGHTS",
+  "blogPageTitle": "Clear medical guidance for better decisions.",
+  "pages": {
+    "about": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 12,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "OUR DOCTORS",
+      "title": "Experience you can trust. Care that feels personal.",
+      "intro": "Two generations of clinical experience, united by careful listening, honest guidance and continuity of care.",
+      "image": "https://udvyhptpcjclxrjtbzlm.supabase.co/storage/v1/object/public/demo-images/dr-aishwarya-v-mathikatti/1783520974305.png",
+      "sections": [
+        {
+          "title": "Dr Aishwarya V Mathikatti",
+          "text": "Obstetrician, Gynaecologist and Fertility Specialist with 19 years of experience. MBBS, MS (Obstetrics & Gynaecology), Diploma in Reproductive Medicine (Kiel, Germany), Masters in Reproductive Medicine (IBC, Dubai), with expertise in aesthetic and cosmetic gynaecology.",
+          "more": "",
+          "image": "/media/images/093651ca-6ae8-4890-aca3-3264d6e752b9.webp"
+        },
+        {
+          "title": "Dr L. P. Nagarajaiah",
+          "text": "Senior General Physician, MBBS, with 47+ years of experience and registration number 17248. He provides considered, practical care for common illnesses and long-term health conditions.",
+          "image": "/media/images/45427ef0-dbaf-400f-b285-1116b69c8f4c.webp",
+          "more": ""
+        },
+        {
+          "title": "Our philosophy",
+          "text": "We explain the clinical picture clearly, involve patients in decisions and recommend only what is appropriate for their individual situation.",
+          "more": ""
+        }
+      ],
+      "faqs": []
+    },
+    "gynaecology": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 11,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "WOMEN’S HEALTH",
+      "title": "Gynaecology care that sees the whole person.",
+      "intro": "From first periods to menopause, receive evidence-led care in a respectful and comfortable setting.",
+      "image": "https://udvyhptpcjclxrjtbzlm.supabase.co/storage/v1/object/public/demo-images/dr-aishwarya-v-mathikatti/1783520974305.png",
+      "sections": [
+        {
+          "title": "PCOS & irregular periods",
+          "text": "Detailed evaluation of cycles, hormones, metabolic health, symptoms and future fertility goals—not a one-size-fits-all prescription.",
+          "more": "Assessment may include menstrual history, signs of excess androgen, thyroid and metabolic factors, ultrasound findings when appropriate, and whether pregnancy is currently a goal. Treatment is matched to what matters most: predictable cycles, skin and hair symptoms, metabolic health or fertility."
+        },
+        {
+          "title": "Endometriosis & pelvic pain",
+          "text": "Careful assessment of persistent pain, painful periods and related symptoms, followed by a clear treatment plan.",
+          "more": "The consultation considers the pattern of pain, bowel or bladder symptoms, painful intercourse, previous scans and fertility plans. Options can range from symptom control and hormonal treatment to further imaging or minimally invasive evaluation when appropriate."
+        },
+        {
+          "title": "Fibroids, cysts & infections",
+          "text": "Evaluation, monitoring and treatment decisions based on symptoms, imaging and your stage of life.",
+          "more": "Not every fibroid or ovarian cyst needs surgery. Size, appearance, pain, bleeding, age and fertility plans help determine whether observation, medicines, further tests or a procedure is the safest next step."
+        },
+        {
+          "title": "Adolescent & menopause care",
+          "text": "Age-appropriate support for menstrual concerns, preventive health, perimenopause and menopause.",
+          "more": "Care is private, respectful and adapted to the patient’s stage of life—from first-period concerns and cycle education to hot flushes, sleep changes, bone health and safe treatment choices around menopause."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When should I consult a gynaecologist?",
+          "a": "Seek advice for persistent pelvic pain, very heavy or irregular bleeding, missed periods, unusual discharge, fertility concerns or symptoms affecting daily life."
+        },
+        {
+          "q": "Can PCOS be cured permanently?",
+          "a": "PCOS is usually managed rather than permanently cured. Symptoms and long-term risks can often be controlled effectively with personalised treatment and lifestyle support."
+        },
+        {
+          "q": "How often should I have a gynaecology check-up?",
+          "a": "The right interval depends on age, symptoms and screening history. A consultation is useful sooner when cycles, pain, discharge or bleeding patterns change."
+        },
+        {
+          "q": "When is heavy menstrual bleeding a concern?",
+          "a": "Consult when bleeding soaks through protection very frequently, lasts longer than usual, causes clots, dizziness or tiredness, or interferes with daily life."
+        },
+        {
+          "q": "Can menopause symptoms be treated?",
+          "a": "Yes. Treatment can include lifestyle measures, non-hormonal options or hormone therapy when appropriate after reviewing symptoms and individual health risks."
+        }
+      ]
+    },
+    "pregnancy-care": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 12,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "MATERNITY",
+      "title": "Confident pregnancy care, from the first test to delivery.",
+      "intro": "Personalised antenatal care with clear explanations, timely screening and continuity through every trimester.",
+      "image": "https://udvyhptpcjclxrjtbzlm.supabase.co/storage/v1/object/public/demo-images/dr-aishwarya-v-mathikatti/1784567377760.png",
+      "sections": [
+        {
+          "title": "Pre-pregnancy counselling",
+          "text": "Review health conditions, medicines, nutrition, vaccinations and fertility factors before trying to conceive.",
+          "more": "A pre-conception visit helps identify concerns before pregnancy begins. The review can include medical and menstrual history, current medicines, folic acid, vaccination status, thyroid or diabetes risk, previous pregnancies and whether either partner may benefit from further evaluation."
+        },
+        {
+          "title": "Routine antenatal care",
+          "text": "Planned consultations, scans and tests with guidance on nutrition, activity, symptoms and birth preparation.",
+          "more": "Care is planned trimester by trimester, with appropriate blood tests, ultrasound scans, blood-pressure and growth monitoring. Each visit is also an opportunity to discuss nutrition, exercise, travel, medicines, common symptoms and preparation for labour and newborn care."
+        },
+        {
+          "title": "High-risk pregnancy",
+          "text": "Closer monitoring for diabetes, hypertension, thyroid conditions, multiple pregnancy, previous complications and other risk factors.",
+          "more": "A pregnancy may need additional monitoring because of an existing condition, a complication in the current pregnancy or a previous obstetric history. The plan is individualised and may include more frequent reviews, targeted scans, medication adjustment and coordination with other specialists."
+        },
+        {
+          "title": "Postnatal support",
+          "text": "Recovery, breastfeeding guidance, contraception and follow-up after delivery.",
+          "more": "Postnatal care reviews physical recovery, bleeding, wound healing, blood pressure, emotional wellbeing, breastfeeding concerns and contraception. It also creates space to discuss sleep, nutrition and symptoms that should not be dismissed after delivery."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When should the first pregnancy visit happen?",
+          "a": "Book after a positive pregnancy test, and sooner if you have pain, bleeding, previous pregnancy complications or an existing medical condition."
+        },
+        {
+          "q": "Which symptoms during pregnancy need urgent attention?",
+          "a": "Heavy bleeding, severe abdominal pain, fainting, persistent vomiting, fever, severe headache, reduced fetal movement later in pregnancy or fluid leakage require prompt medical advice."
+        },
+        {
+          "q": "How many scans are needed during pregnancy?",
+          "a": "Scan timing depends on the pregnancy and medical history. Common milestones include an early dating scan, first-trimester screening and an anomaly scan, with additional scans when clinically needed."
+        },
+        {
+          "q": "Can I continue my regular medicines after becoming pregnant?",
+          "a": "Do not stop essential medicine suddenly, but arrange an early review because some medicines are continued, changed or adjusted during pregnancy."
+        }
+      ]
+    },
+    "fertility-ivf": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 12,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "FERTILITY",
+      "title": "Fertility care with clarity—not pressure.",
+      "intro": "A structured evaluation and honest discussion of options, timelines and expected outcomes for both partners.",
+      "image": "https://udvyhptpcjclxrjtbzlm.supabase.co/storage/v1/object/public/demo-images/dr-aishwarya-v-mathikatti/1783520974305.png",
+      "sections": [
+        {
+          "title": "Fertility evaluation",
+          "text": "A focused review of ovulation, ovarian reserve, tubes, uterus and semen factors to identify what needs attention.",
+          "more": "Evaluation begins with both partners and is guided by age, how long you have been trying, cycle pattern and previous treatment. Tests are selected purposefully and may include ultrasound, ovarian reserve assessment, tubal evaluation and semen analysis—not every patient needs every test."
+        },
+        {
+          "title": "Ovulation support",
+          "text": "Cycle tracking and medically appropriate ovulation induction with careful monitoring.",
+          "more": "When ovulation is irregular or absent, treatment may combine cycle tracking, lifestyle and metabolic review, and carefully selected medication. Monitoring helps confirm response, guide timing and reduce avoidable risks rather than relying on medication alone."
+        },
+        {
+          "title": "IUI & IVF guidance",
+          "text": "Understand when assisted reproduction may help, what it involves and how to choose the right next step.",
+          "more": "The consultation explains where IUI or IVF may fit, expected steps, likely timelines, limitations and alternatives. Recommendations are based on the couple’s clinical findings and priorities; assisted reproduction is not automatically the first option."
+        },
+        {
+          "title": "Recurrent pregnancy loss",
+          "text": "Thoughtful evaluation of possible contributing factors with sensitive counselling and a plan for future pregnancy.",
+          "more": "The review considers pregnancy history, uterine factors, selected hormonal, genetic or clotting concerns when clinically indicated, and the health of both partners. The aim is to avoid unnecessary testing while creating a clear monitoring and care plan for the next pregnancy."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When should we seek fertility advice?",
+          "a": "Usually after 12 months of trying if the woman is under 35, or after 6 months if 35 or older. Consult earlier for irregular cycles, known conditions or previous treatment."
+        },
+        {
+          "q": "Does a fertility consultation always lead to IVF?",
+          "a": "No. Many couples need assessment, cycle guidance, treatment of an underlying condition or simpler options before IVF is considered."
+        },
+        {
+          "q": "Are both partners evaluated?",
+          "a": "Yes. Fertility depends on factors affecting either partner, so a structured evaluation commonly includes menstrual and ovulation assessment alongside semen analysis."
+        },
+        {
+          "q": "Does age affect fertility treatment options?",
+          "a": "Age influences egg quantity and quality, timelines and expected outcomes. Early assessment helps patients make informed choices without assuming advanced treatment is immediately necessary."
+        },
+        {
+          "q": "How long does a fertility evaluation take?",
+          "a": "Many initial tests can be completed within one menstrual cycle, although the exact timeline depends on cycle regularity, previous reports and which investigations are appropriate."
+        }
+      ]
+    },
+    "procedures": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 12,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "TREATMENTS & PROCEDURES",
+      "title": "The right pathway begins with the right diagnosis.",
+      "intro": "Understand when medicines, monitoring, IUI, IVF, surgery or another pathway may be considered—and why treatment is always individualised.",
+      "image": "https://udvyhptpcjclxrjtbzlm.supabase.co/storage/v1/object/public/demo-images/dr-aishwarya-v-mathikatti/1784567377760.png",
+      "sections": [
+        {
+          "anchor": "fertility-assessment",
+          "title": "Fertility assessment",
+          "text": "A structured evaluation of both partners before choosing any fertility treatment.",
+          "more": "This may be considered when pregnancy is taking longer than expected, cycles are irregular, there is a known reproductive condition or previous treatment has not worked. The assessment may review ovulation, ovarian reserve, the uterus and tubes, semen factors and relevant medical history. The outcome may be reassurance, timed intercourse, treatment of an underlying issue, ovulation support, IUI or IVF—not automatically advanced treatment."
+        },
+        {
+          "anchor": "ovulation-support",
+          "title": "Ovulation induction",
+          "text": "Medication and monitoring to support predictable ovulation when clinically appropriate.",
+          "more": "Ovulation induction may be considered when ovulation is irregular or absent, including in selected patients with PCOS. Treatment is planned around diagnosis, age and fertility goals, and may involve ultrasound or hormonal monitoring. It is not suitable for every fertility factor and should be prescribed and monitored rather than self-started."
+        },
+        {
+          "anchor": "iui",
+          "title": "IUI — Intrauterine insemination",
+          "text": "Prepared sperm is placed inside the uterus close to ovulation in a carefully timed cycle.",
+          "more": "IUI may be considered in selected cases such as unexplained infertility, mild male-factor concerns, ovulation problems or when donor sperm is legally and clinically appropriate. It usually requires at least one usable fallopian tube and an individual assessment of sperm parameters, age and treatment history. It may not be the right choice for severe tubal disease or significant sperm-factor concerns."
+        },
+        {
+          "anchor": "ivf-icsi",
+          "title": "IVF & ICSI",
+          "text": "Eggs are collected and fertilised in a laboratory before an embryo is transferred to the uterus.",
+          "more": "IVF or ICSI may be considered for blocked or damaged tubes, significant male-factor infertility, reduced ovarian reserve, endometriosis, repeated treatment failure, genetic indications or when simpler options are unlikely to help. The plan can include ovarian stimulation, egg retrieval, fertilisation, embryo culture and transfer. Expected success, risks, costs and alternatives should be discussed for the individual couple."
+        },
+        {
+          "anchor": "embryo-transfer",
+          "title": "Embryo transfer & frozen cycles",
+          "text": "A selected embryo is placed in the uterus during a fresh or carefully prepared frozen cycle.",
+          "more": "A frozen embryo transfer may be considered after embryo freezing, when transfer is deferred for medical reasons, or during a later attempt. Preparation depends on cycle regularity, the uterine lining, previous treatment and the clinical plan. The number and timing of embryos transferred are decided according to medical guidance and applicable regulations."
+        },
+        {
+          "anchor": "surrogacy-guidance",
+          "title": "Surrogacy eligibility & referral guidance",
+          "text": "Clinical and regulatory guidance when carrying a pregnancy is medically impossible or unsafe.",
+          "more": "Surrogacy is not a routine alternative to IVF and is strictly regulated in India. It may be explored only after specialist evaluation identifies a recognised medical indication and the intending parent or couple meets the applicable legal eligibility, certification and clinic requirements. Commercial surrogacy is prohibited. The clinic can explain the medical pathway and arrange appropriate legal or registered-centre guidance; eligibility cannot be promised through a website enquiry."
+        },
+        {
+          "anchor": "pcos-management",
+          "title": "PCOS/PCOD management",
+          "text": "Treatment is matched to cycle concerns, metabolic health, skin symptoms and fertility goals.",
+          "more": "The care plan may include lifestyle and metabolic assessment, cycle regulation, treatment for acne or excess hair, endometrial protection and ovulation support when pregnancy is desired. Ultrasound appearance alone does not determine treatment, and not everyone with PCOS needs fertility procedures."
+        },
+        {
+          "anchor": "high-risk-pregnancy",
+          "title": "High-risk pregnancy care",
+          "text": "Additional monitoring and coordinated care when maternal or pregnancy factors increase risk.",
+          "more": "Closer care may be considered with diabetes, hypertension, thyroid disorders, multiple pregnancy, previous complications, maternal age concerns or findings in the current pregnancy. The plan may include targeted scans, laboratory monitoring, medication review and coordination with maternal-fetal medicine or other specialists."
+        },
+        {
+          "anchor": "menopause-care",
+          "title": "Menopause care",
+          "text": "Individual support for symptoms, sexual health, bone health and long-term risk assessment.",
+          "more": "Management may include lifestyle measures, vaginal treatments, non-hormonal medicines or menopausal hormone therapy when appropriate. Decisions depend on symptoms, age, medical history, time since menopause and individual risks. Preventive care may also address bone, breast and cardiovascular health."
+        },
+        {
+          "anchor": "functional-aesthetic-gynaecology",
+          "title": "Functional & aesthetic gynaecology",
+          "text": "Confidential assessment before considering treatment for intimate or post-delivery concerns.",
+          "more": "Symptoms such as discomfort, dryness, laxity concerns, scarring or changes after childbirth require a clinical assessment before any procedure is recommended. Options may include pelvic-floor support, medical treatment, non-surgical approaches or surgery in selected cases. The consultation should cover realistic outcomes, evidence, recovery, risks and alternatives."
+        },
+        {
+          "anchor": "male-fertility-evaluation",
+          "title": "Male fertility evaluation",
+          "text": "Focused review of semen factors, health conditions, medicines and lifestyle influences.",
+          "more": "This may be considered when conception is delayed, semen analysis is abnormal or there is a history of testicular, hormonal, sexual or medical concerns. Evaluation may include repeat semen analysis under correct conditions and targeted specialist tests. Treatment can range from addressing a reversible factor to IUI, IVF or ICSI guidance."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When is IUI usually considered?",
+          "a": "IUI may be considered for unexplained infertility, ovulation problems, mild male-factor infertility, cervical factors or when donor sperm is clinically and legally appropriate. At least one fallopian tube generally needs to be open, and the overall decision also depends on age, ovarian reserve and treatment history."
+        },
+        {
+          "q": "If sperm motility is low, can we consider IUI?",
+          "a": "Possibly, when the reduction is mild and enough progressively motile sperm remain after laboratory preparation. Markedly low count or motility, very poor morphology or repeated unsuccessful IUI may make IVF with ICSI more appropriate. A semen report should be interpreted by a fertility specialist rather than by one number alone."
+        },
+        {
+          "q": "What sperm count is needed for IUI?",
+          "a": "There is no single cut-off that guarantees success. Clinics consider the total motile sperm count before and especially after washing, along with motility, morphology and the female partner’s factors. Lower numbers generally reduce the chance of success and may change the recommended pathway."
+        },
+        {
+          "q": "How many IUI cycles should we try before considering IVF?",
+          "a": "Many couples reassess after about three well-timed cycles, although fewer or more may be reasonable depending on age, ovarian reserve, diagnosis, sperm factors and previous treatment. Continuing repeatedly without reviewing the chance of success can waste valuable time."
+        },
+        {
+          "q": "When may IVF be recommended instead of IUI?",
+          "a": "IVF may be considered with blocked or severely damaged tubes, significant male-factor infertility, reduced ovarian reserve, moderate-to-severe endometriosis, advanced reproductive age, genetic indications or unsuccessful simpler treatment. It is not automatically the first treatment for every couple."
+        },
+        {
+          "q": "What is the difference between IVF and ICSI?",
+          "a": "In conventional IVF, eggs and sperm are placed together for fertilisation. With ICSI, an embryologist injects one selected sperm into an egg. ICSI is commonly considered for significant sperm problems, previous fertilisation failure or certain laboratory indications; it is not necessarily required for every IVF cycle."
+        },
+        {
+          "q": "Does low AMH mean I must immediately undergo IVF?",
+          "a": "No. AMH mainly helps estimate ovarian reserve and likely response to stimulation; it does not by itself measure egg quality or predict natural pregnancy. Age, ultrasound follicle count, cycle pattern, tubes, semen factors and how long you have been trying must be considered together."
+        },
+        {
+          "q": "Can PCOS be treated with ovulation induction instead of IVF?",
+          "a": "Often, yes. When irregular or absent ovulation is the main problem and other fertility factors are reassuring, monitored ovulation induction may be an appropriate first step. The medicine, dose and monitoring plan should be individualised to reduce risks such as multiple pregnancy or excessive ovarian response."
+        },
+        {
+          "q": "Do both partners need fertility testing?",
+          "a": "Yes. Evaluating both partners early avoids unnecessary delay and treatment. The initial assessment may include menstrual and ovulation history, ovarian reserve or ultrasound when appropriate, tubal assessment and semen analysis."
+        },
+        {
+          "q": "Do blocked fallopian tubes always require IVF?",
+          "a": "The answer depends on whether one or both tubes are affected, where the blockage is, whether hydrosalpinx is present, age and other fertility factors. Bilateral significant tubal blockage commonly leads to IVF consideration, while selected findings may need confirmation or surgical discussion first."
+        },
+        {
+          "q": "When is a frozen embryo transfer considered?",
+          "a": "Frozen transfer may be planned after embryos were cryopreserved, when a fresh transfer is medically deferred, after genetic testing, or during a later attempt. Preparation may follow a natural or medicated cycle depending on ovulation, uterine lining and the clinical plan."
+        },
+        {
+          "q": "Is IVF guaranteed to work?",
+          "a": "No fertility treatment can guarantee pregnancy or live birth. Chances vary with age, egg and sperm factors, embryo development, uterine health, diagnosis and previous treatment. A responsible consultation should discuss realistic personalised expectations rather than only headline success rates."
+        },
+        {
+          "q": "When should a couple seek a fertility evaluation?",
+          "a": "Typically after 12 months of trying when the woman is under 35, after 6 months when she is 35 or older, and sooner with irregular periods, pelvic pain, known endometriosis, previous pelvic surgery, recurrent pregnancy loss, sexual difficulties or known male-factor concerns."
+        },
+        {
+          "q": "How will I know whether a procedure is necessary?",
+          "a": "The diagnosis, alternatives, expected benefit, limitations, risks and likely outcome should be explained before you decide. Not every fertility or gynaecological concern requires a procedure."
+        },
+        {
+          "q": "What should I ask before starting treatment?",
+          "a": "Ask why the treatment is being recommended, what alternatives exist, expected success for your situation, medicines and monitoring required, risks, total cost, cancellation criteria, embryo or sample storage, recovery and what happens if the first attempt is unsuccessful."
+        }
+      ]
+    },
+    "general-medicine": {
+      "heroVisible": true,
+      "heroHeight": 600,
+      "heroTitleSize": 76,
+      "heroIntroSize": 18,
+      "contentVisible": true,
+      "contentPadding": 100,
+      "sectionTitleSize": 64,
+      "cardTitleSize": 27,
+      "cardTextSize": 12,
+      "faqsVisible": true,
+      "ctaVisible": true,
+      "eyebrow": "GENERAL MEDICINE",
+      "title": "Experienced everyday care for the whole family.",
+      "intro": "Practical, attentive medical care from Dr L. P. Nagarajaiah, Senior General Physician with 47+ years of experience.",
+      "image": "/doctors/dr-nagarajaiah.jpg",
+      "sections": [
+        {
+          "title": "General consultations",
+          "text": "Assessment and treatment for fever, infections, respiratory symptoms, digestive complaints, weakness and common acute illnesses.",
+          "more": "The consultation looks beyond a single symptom by reviewing its duration, associated signs, current medicines and relevant medical history. Investigations are advised when they are likely to clarify the diagnosis or change treatment."
+        },
+        {
+          "title": "Diabetes, BP & thyroid",
+          "text": "Long-term monitoring, medication review, preventive advice and coordination of care when specialist input is needed.",
+          "more": "Regular reviews bring together home readings, laboratory results, symptoms, adherence and medicine tolerance. The goal is steady long-term control, early identification of complications and timely specialist referral when required."
+        },
+        {
+          "title": "Preventive health",
+          "text": "Health-risk review, age-appropriate screening advice and practical guidance for maintaining wellbeing.",
+          "more": "Preventive care is tailored to age, family history, lifestyle and existing conditions. It may include guidance on appropriate screening, vaccination, weight, sleep, activity and cardiovascular or metabolic risk—without unnecessary blanket testing."
+        },
+        {
+          "title": "Continuity of care",
+          "text": "A familiar physician who understands your history and helps coordinate ongoing treatment.",
+          "more": "Long-term continuity reduces fragmented treatment and repeated explanations. Previous illnesses, investigations, medicine responses and specialist recommendations can be considered together when planning each next step."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When should a fever be evaluated by a doctor?",
+          "a": "Seek medical advice when fever is persistent, very high, associated with breathing difficulty, severe weakness, dehydration, confusion, rash or significant underlying illness."
+        },
+        {
+          "q": "How often should blood pressure and diabetes be reviewed?",
+          "a": "Review frequency depends on current readings, medicines and complications. Stable patients still benefit from regular monitoring rather than waiting for symptoms."
+        },
+        {
+          "q": "Can I consult for several health concerns in one visit?",
+          "a": "Yes. Bring your medicine list and recent reports so the doctor can prioritise concerns and create a practical follow-up plan."
+        },
+        {
+          "q": "When is high blood pressure an emergency?",
+          "a": "Very high readings accompanied by chest pain, severe headache, breathlessness, weakness, confusion, vision changes or neurological symptoms require urgent assessment. A single unexpected reading without symptoms should still be repeated correctly and discussed promptly."
+        },
+        {
+          "q": "How often should thyroid tests be repeated?",
+          "a": "It depends on the diagnosis, medicine changes, symptoms, pregnancy status and previous results. After a dose adjustment, testing is commonly repeated after enough time has passed for levels to stabilise; stable patients may need less frequent monitoring."
+        },
+        {
+          "q": "Should I take antibiotics for a cold or cough?",
+          "a": "Most uncomplicated colds are viral and do not benefit from antibiotics. Examination is useful when symptoms are severe, persistent, worsening, associated with breathing difficulty or occur in someone with significant underlying illness."
+        },
+        {
+          "q": "What reports should I bring for a diabetes review?",
+          "a": "Bring recent glucose readings, HbA1c and other laboratory reports, your complete medicine list, details of low-sugar episodes and any eye, kidney, foot or cardiovascular evaluations available."
+        },
+        {
+          "q": "Can several medicines interact with each other?",
+          "a": "Yes. Prescription medicines, painkillers, supplements and herbal products can interact or duplicate effects. Carry an updated list to every consultation and avoid stopping long-term treatment without medical advice."
+        },
+        {
+          "q": "When should unexplained weakness or tiredness be investigated?",
+          "a": "Seek assessment when fatigue is persistent, limits daily activity or occurs with weight change, fever, breathlessness, palpitations, bleeding, sleep problems or other new symptoms. The evaluation is guided by history and examination rather than a blanket panel of tests."
+        }
+      ]
+    }
+  },
+  "blogs": [
+    {
+      "slug": "pcos-can-it-be-cured",
+      "category": "PCOS & Hormonal Health",
+      "title": "Can PCOS Be Cured? Understanding What Treatment Can Really Achieve",
+      "heroShort": "PCOS can be managed very effectively, but there is no single permanent cure. The right plan depends on your symptoms, health risks and fertility goals.",
+      "summary": "A practical guide to PCOS symptoms, diagnosis, long-term management and when specialist support is important.",
+      "date": "July 2026",
+      "image": "/media/images/1aa513a4-9195-4f03-aae8-303e9cc0c91b.webp",
+      "nutshell": "PCOS is a long-term hormonal and metabolic condition. Symptoms such as irregular periods, acne, excess facial hair and difficulty conceiving can often improve significantly with personalised treatment, lifestyle changes and regular monitoring.",
+      "introduction": "Many women ask whether PCOS will ever go away completely. The honest answer is that PCOS is usually managed rather than permanently cured. However, with the right diagnosis and treatment, most women can control their symptoms, protect their long-term health and achieve their fertility goals.",
+      "sections": [
+        {
+          "heading": "What exactly is PCOS?",
+          "body": "Polycystic ovary syndrome affects ovulation and hormone balance. Some women have irregular periods, increased androgen levels or polycystic-looking ovaries, but not everyone has the same combination of symptoms.",
+          "simple": "In simple terms: the ovaries and hormones are not following a predictable monthly rhythm."
+        },
+        {
+          "heading": "Why can symptoms be so different?",
+          "body": "PCOS may affect menstrual cycles, skin, hair, weight, insulin response and fertility. Genetics, sleep, stress, activity and metabolic health can influence how strongly each symptom appears.",
+          "simple": "Two women with PCOS may need completely different treatment plans."
+        },
+        {
+          "heading": "What treatment can achieve",
+          "body": "Treatment may regulate periods, reduce acne or unwanted hair, improve insulin sensitivity and support ovulation. The plan may include nutrition and activity changes, medicines, cycle regulation or fertility treatment when appropriate.",
+          "simple": "The goal is not merely a normal scan—it is better symptoms and better long-term health."
+        },
+        {
+          "heading": "Does weight gain always mean PCOS?",
+          "body": "No. Weight changes can have several causes. Thyroid problems, medicines, sleep disturbance and other hormonal or lifestyle factors may contribute, so appropriate testing matters before blaming PCOS alone.",
+          "simple": "Correct diagnosis comes before treatment."
+        },
+        {
+          "heading": "Can women with PCOS become pregnant?",
+          "body": "Yes. Many women with PCOS conceive naturally, while others benefit from cycle tracking, ovulation treatment or fertility support. Early assessment is useful when cycles are very irregular or pregnancy is taking longer than expected.",
+          "simple": "PCOS can delay ovulation, but it does not automatically mean infertility."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Will PCOS disappear after marriage or pregnancy?",
+          "a": "No. Marriage does not treat PCOS, and pregnancy does not guarantee it will disappear. Symptoms may change over time and still require follow-up."
+        },
+        {
+          "q": "Do I need medicine throughout my life?",
+          "a": "Not necessarily. Treatment changes according to symptoms, age, health risks and pregnancy plans. Some women need intermittent treatment and monitoring rather than continuous medicine."
+        },
+        {
+          "q": "Should everyone with PCOS lose weight?",
+          "a": "No. PCOS also affects women with a healthy or low body weight. Lifestyle advice and treatment must be individualised."
+        },
+        {
+          "q": "When should I consult a gynaecologist?",
+          "a": "Seek advice for very irregular or absent periods, persistent acne or excess hair, pelvic symptoms, difficulty conceiving or concerns about diabetes and long-term health."
+        }
+      ],
+      "whenToSeek": "Book a consultation if periods are repeatedly delayed or absent, symptoms are worsening, you are planning pregnancy, or online advice and self-treatment have not helped.",
+      "clinicCta": "At Shiva Krupa Polyclinic, Dr Aishwarya evaluates menstrual patterns, symptoms, metabolic health, thyroid status and fertility goals before creating a personalised PCOS plan.",
+      "takeaway": "PCOS may not have a one-time cure, but it can usually be controlled very effectively with the right diagnosis, consistent care and a treatment plan built around you."
+    },
+    {
+      "slug": "fertility-evaluation",
+      "category": "Fertility",
+      "title": "When Should You Consider a Fertility Evaluation?",
+      "heroShort": "Knowing when to seek advice can reduce uncertainty and help identify simple, treatable factors early.",
+      "summary": "A calm guide to timelines, common tests and what to expect during your first visit.",
+      "date": "July 2026",
+      "image": "",
+      "nutshell": "Most couples under 35 can seek advice after twelve months of trying; consult after six months when the woman is 35 or older, and earlier when cycles are irregular or a known condition exists.",
+      "introduction": "A fertility evaluation is not an automatic path to IVF. It is a structured review of both partners so that the next step is based on evidence rather than guesswork.",
+      "sections": [
+        {
+          "heading": "When is the right time to seek advice?",
+          "body": "Couples may seek advice after twelve months of regular unprotected intercourse when the woman is under 35, or after six months when she is 35 or older. Earlier review is appropriate when periods are irregular, pelvic pain is persistent, surgery or cancer treatment has occurred, or either partner has a known fertility concern.",
+          "simple": "The right time depends on age, cycle pattern, health history and how long you have been trying."
+        },
+        {
+          "heading": "Why should both partners be evaluated?",
+          "body": "Fertility depends on factors affecting either or both partners. Assessing both at the beginning avoids months of unnecessary treatment and creates a more complete plan.",
+          "simple": "A fertility evaluation is a couple’s assessment—not only a woman’s test."
+        },
+        {
+          "heading": "What may be checked in the female partner?",
+          "body": "Depending on the history, assessment may include menstrual and ovulation review, ultrasound, ovarian reserve testing and evaluation of the uterus or fallopian tubes. Tests are selected because they can change management, not simply ordered as a standard package.",
+          "simple": "Not every patient needs every fertility test."
+        },
+        {
+          "heading": "What does the male evaluation involve?",
+          "body": "Semen analysis is usually the starting point. If a result is abnormal, it may need to be repeated under correct collection conditions before targeted hormonal, genetic or specialist evaluation is considered.",
+          "simple": "One abnormal semen report is important, but it is not always the final conclusion."
+        },
+        {
+          "heading": "Does evaluation always lead to IVF?",
+          "body": "No. The outcome may be reassurance, cycle guidance, treatment of an underlying condition, ovulation support, IUI, surgery in selected cases or IVF when clinically appropriate.",
+          "simple": "The purpose of evaluation is to choose the simplest effective next step."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can we bring previous reports?",
+          "a": "Yes. Bring prior scans, blood tests, semen analyses, treatment records and medicine lists. They can prevent unnecessary repetition and help the doctor understand the full timeline."
+        },
+        {
+          "q": "Can fertility tests be completed in one visit?",
+          "a": "The first consultation can organise the plan, but some tests depend on menstrual-cycle timing and may be completed over several days or one cycle."
+        },
+        {
+          "q": "Should we stop trying naturally during evaluation?",
+          "a": "Usually not unless your doctor advises otherwise for a specific procedure or medical reason. The consultation can clarify timing and any precautions."
+        },
+        {
+          "q": "Does irregular menstruation require earlier assessment?",
+          "a": "Yes. Very irregular or absent periods may indicate inconsistent ovulation and are a reason to seek advice earlier rather than waiting a full year."
+        }
+      ],
+      "whenToSeek": "Consult earlier for irregular periods, severe pelvic pain, previous pelvic surgery, recurrent pregnancy loss or known male-factor concerns.",
+      "clinicCta": "Dr Aishwarya offers clear fertility assessment and discusses simpler options before advanced treatment is considered.",
+      "takeaway": "Early clarity can save time, reduce anxiety and lead to the most appropriate next step."
+    },
+    {
+      "slug": "first-trimester",
+      "category": "Pregnancy",
+      "title": "Your First Trimester: What Is Normal and When Should You Call the Doctor?",
+      "heroShort": "Early pregnancy brings rapid changes. Understanding common symptoms and warning signs helps you feel more confident.",
+      "summary": "Common symptoms, important check-ups and warning signs that should never be ignored.",
+      "date": "June 2026",
+      "image": "",
+      "nutshell": "Nausea, tiredness and mild cramps can be common, but heavy bleeding, severe pain, fainting or persistent vomiting need prompt medical advice.",
+      "introduction": "The first twelve weeks are exciting and often worrying. A planned early consultation helps confirm the pregnancy, review medicines and organise the right scans and tests.",
+      "sections": [
+        {
+          "heading": "Which early-pregnancy symptoms are common?",
+          "body": "Breast tenderness, tiredness, nausea, food aversions, frequent urination, bloating and mild intermittent cramps can occur as hormones change. Symptoms vary considerably and may also fluctuate from day to day.",
+          "simple": "Having fewer symptoms does not automatically mean that something is wrong."
+        },
+        {
+          "heading": "When should the first appointment happen?",
+          "body": "Contact the clinic after a positive test so timing can be planned from the last menstrual period, symptoms and medical history. Earlier assessment may be needed after fertility treatment, previous ectopic pregnancy, recurrent loss, pain or bleeding.",
+          "simple": "The first appointment is timed to answer a clinical question—not simply as early as possible."
+        },
+        {
+          "heading": "What happens during an early scan?",
+          "body": "An early ultrasound may confirm that the pregnancy is located inside the uterus, estimate gestational age, assess viability when timing permits and check for more than one pregnancy. A scan performed too early may need to be repeated.",
+          "simple": "An inconclusive very-early scan does not always indicate a problem."
+        },
+        {
+          "heading": "Which medicines and supplements matter?",
+          "body": "Folic acid is commonly recommended, while the dose depends on individual risk. All prescription medicines, over-the-counter products and supplements should be reviewed; do not abruptly stop essential treatment without medical advice.",
+          "simple": "Natural or herbal products are not automatically safe during pregnancy."
+        },
+        {
+          "heading": "Which warning signs need urgent attention?",
+          "body": "Heavy bleeding, severe or one-sided abdominal pain, shoulder-tip pain, fainting, high fever, breathing difficulty or persistent vomiting with dehydration require prompt medical assessment.",
+          "simple": "When symptoms are severe or rapidly worsening, seek help rather than waiting for the next routine visit."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is mild spotting always a miscarriage?",
+          "a": "No. Light spotting can have several causes, but any bleeding in pregnancy should be discussed so the amount, pain, gestational age and risk factors can be assessed."
+        },
+        {
+          "q": "Can I exercise in the first trimester?",
+          "a": "Many women can continue appropriate activity, but intensity and restrictions depend on previous fitness, symptoms and pregnancy-related risks. Ask for individual advice."
+        },
+        {
+          "q": "What can help with nausea?",
+          "a": "Small frequent meals, adequate fluids and avoiding triggers may help. Persistent vomiting, weight loss, reduced urination or inability to keep fluids down needs medical treatment."
+        },
+        {
+          "q": "When can a heartbeat be seen?",
+          "a": "It depends on gestational age, ovulation timing and scan method. If a scan is performed very early, repeating it after an appropriate interval may be more informative."
+        }
+      ],
+      "whenToSeek": "Seek urgent advice for heavy bleeding, severe one-sided pain, fainting, fever or inability to keep fluids down.",
+      "clinicCta": "Dr Aishwarya provides early pregnancy assessment, antenatal planning and clear guidance for each stage.",
+      "takeaway": "Most early symptoms are manageable, but knowing the warning signs ensures you receive help at the right time."
+    },
+    {
+      "slug": "male-infertility-causes-treatment",
+      "category": "Fertility",
+      "title": "Male Infertility: Causes, Symptoms, Diagnosis and Treatment",
+      "heroShort": "Male-factor fertility concerns are common and often manageable. A structured evaluation helps couples avoid delay, guesswork and unnecessary treatment.",
+      "summary": "Understand common causes, the role of semen analysis and how timely evaluation can improve the chances of conception.",
+      "date": "July 2026",
+      "image": "",
+      "nutshell": "Male factors contribute to fertility difficulty in a significant number of couples. Evaluation usually begins with medical history and semen analysis, followed by focused tests only when indicated.",
+      "introduction": "Fertility is a shared concern, not solely a woman’s responsibility. Evaluating both partners early can identify treatable factors and help the couple choose the most appropriate next step.",
+      "sections": [
+        {
+          "heading": "What can affect male fertility?",
+          "body": "Sperm production and function may be affected by varicocele, infection, hormonal conditions, genetic factors, some medicines, heat exposure, smoking, alcohol, obesity or previous surgery. Sometimes no single cause is found.",
+          "simple": "A fertility concern does not automatically mean permanent infertility."
+        },
+        {
+          "heading": "Why is semen analysis important?",
+          "body": "Semen analysis evaluates sperm concentration, movement and shape. Since results can vary, an abnormal test may need to be repeated under the correct collection conditions before conclusions are made.",
+          "simple": "One report should be interpreted in context—not viewed as a final verdict."
+        },
+        {
+          "heading": "What treatment options are available?",
+          "body": "Treatment depends on the cause and may include lifestyle changes, treatment of infection or hormonal problems, specialist review, surgery in selected cases or assisted reproduction such as IUI, IVF or ICSI.",
+          "simple": "The right treatment is based on the cause, not a standard fertility package."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Should both partners be evaluated at the same time?",
+          "a": "Yes. Parallel evaluation avoids unnecessary delay and gives a clearer picture of the couple’s combined fertility factors."
+        },
+        {
+          "q": "Can stress alone cause male infertility?",
+          "a": "Stress can affect sexual function and lifestyle, but persistent abnormal semen results should not be attributed to stress without proper evaluation."
+        },
+        {
+          "q": "Can semen parameters improve?",
+          "a": "They may improve when a treatable factor is identified, although sperm production takes several weeks and changes are not immediate."
+        }
+      ],
+      "whenToSeek": "Consider evaluation after twelve months of trying, after six months when the female partner is 35 or older, or earlier with testicular problems, sexual difficulties, previous surgery, cancer treatment or known medical conditions.",
+      "clinicCta": "At Shiva Krupa Polyclinic, fertility evaluation considers both partners and focuses on clinically useful tests before discussing treatment options.",
+      "takeaway": "Male fertility concerns are common, and early evaluation can replace uncertainty with a clear, evidence-based plan."
+    }
+  ],
+  "videos": [
+    {
+      "category": "Dr Aishwarya · Fertility treatment",
+      "title": "How doctors choose between IUI, IVF and ICSI",
+      "summary": "Dr Aishwarya explains why the choice is based on the couple’s medical findings rather than a standard treatment package.",
+      "url": "https://www.instagram.com/dr.aishwarya02/reel/DVv0qPhEuQ6/",
+      "image": "/media/iui-ivf.webp"
+    },
+    {
+      "category": "Dr Aishwarya · Fertility assessment",
+      "title": "When should you check your fertility?",
+      "summary": "Dr Aishwarya outlines circumstances in which an early fertility consultation may be useful for a couple.",
+      "url": "https://www.instagram.com/reel/DQqnV8tETNo/",
+      "image": "/media/fertility-assessment.webp"
+    },
+    {
+      "category": "Dr Aishwarya · Pregnancy planning",
+      "title": "Weight management while planning pregnancy",
+      "summary": "Dr Aishwarya discusses why healthy weight and metabolic health matter before conception.",
+      "url": "https://www.instagram.com/reel/DSRaKyRCL9F/",
+      "image": "/media/pregnancy-planning.webp"
+    },
+    {
+      "category": "Dr Aishwarya · Fertility awareness",
+      "title": "Infertility is a health conversation",
+      "summary": "Dr Aishwarya encourages couples to seek evidence-led guidance without shame or silence.",
+      "url": "https://www.instagram.com/reel/DbLA_hVixdD/",
+      "image": "/media/fertility-awareness.webp"
+    }
+  ],
+  "instagramVideoVersion": 3,
+  "galleryImages": [
+    {
+      "title": "Clinic reception",
+      "category": "Clinic",
+      "image": "/media/images/cd024896-f5ea-4b7c-a974-4016514985f8.webp"
+    },
+    {
+      "title": "Consultation space",
+      "category": "Clinic",
+      "image": "/media/images/6558ab2a-82e7-4686-9e23-8f3823d97b6b.webp"
+    },
+    {
+      "title": "Patient education",
+      "category": "Care",
+      "image": "/media/images/a9da2313-46f8-4300-95c7-d9137f8a8554.webp"
+    },
+    {
+      "title": "Consultation space",
+      "category": "Clinic",
+      "image": "/media/images/b8f8ec45-4b68-45d2-9f43-3d1a8e88f3f3.webp"
+    },
+    {
+      "title": "Building",
+      "category": "Clinic",
+      "image": "/media/images/92705053-d75e-49aa-8d3f-6eea5e2302ce.webp"
+    },
+    {
+      "title": "Pharmacy",
+      "category": "Clinic",
+      "image": "/media/images/4db984cf-d252-4686-9af5-4ee575f3b822.webp"
+    },
+    {
+      "title": "Scanning Equipment",
+      "category": "Clinic",
+      "image": "/media/images/74488576-d84f-4ede-885b-85242cbad630.webp"
+    },
+    {
+      "title": "Waiting Area",
+      "category": "Clinic",
+      "image": "/media/images/5057ac28-e64f-4354-a180-7af8550d5772.webp"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Laxmi & Sachin",
+      "quote": "Her treatment and advice gave us tremendous support through pregnancy. We are grateful for her care and guidance.",
+      "source": "Practo · Verified",
+      "rating": 5
+    },
+    {
+      "name": "Archana Bharath",
+      "quote": "After four years of trying to conceive and meeting several doctors, I met Dr Aishwarya, conceived through IVF and later delivered a baby boy.",
+      "source": "Practo · Verified",
+      "rating": 5
+    },
+    {
+      "name": "Vidya",
+      "quote": "She listens carefully and explains the best solutions in a detailed yet simple manner. She guided me through a crucial time in my life.",
+      "source": "Practo · Verified",
+      "rating": 5
+    },
+    {
+      "name": "Satish & Girija",
+      "quote": "Her friendly approach, timely decisions and commitment through pregnancy helped fulfil our dream of parenthood.",
+      "source": "Practo · Verified",
+      "rating": 5
+    },
+    {
+      "name": "Verified Patient",
+      "quote": "She provided a clear solution quickly and was friendly, calm and helpful throughout the consultation.",
+      "source": "Practo · Recommended",
+      "rating": 5
+    },
+    {
+      "name": "Swathi S Prakash",
+      "quote": "Recommended Dr Aishwarya after consulting her for a gynaecological concern.",
+      "source": "Practo · Verified",
+      "rating": 5
+    }
+  ],
+  "verifiedReviewsVersion": 1,
+  "name": "Soft Blush",
+  "mode": "light",
+  "blogFourVersion": 1,
+  "procedurePathwaysVersion": 1,
+  "procedureFaqsVersion": 1,
+  "mediaVisibilityVersion": 2,
+  "physicianFaqsVersion": 1,
+  "blogStructureVersion": 1,
+  "doctorPhotoVersion": 1
+}
